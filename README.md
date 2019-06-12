@@ -2,12 +2,12 @@
 ## For Your Convenience
 
 This project was created to act as an inital react project to quickly make projects.
-It was covered in my tutorial of (Creating a React Project)[https://medium.com/@mcdevittrees/creating-a-create-react-project-e0f022a229ee]. 
+It was covered in my tutorial of [Creating a React Project](https://medium.com/@mcdevittrees/creating-a-create-react-project-e0f022a229ee). 
 
 ## Getting Started
 ### Prerequisites
 - Git (duh.)
-- (Yarn)[https://yarnpkg.com/lang/en/docs/install/]
+- [Yarn](https://yarnpkg.com/lang/en/docs/install/)
 - A positive attitude
 ### Lets Get To It
 1. Clone this project:
@@ -24,9 +24,9 @@ npm install
 ## Project Depenancies
 While I wanted to keep this starter fairly lightwieght I did want to have some intaial dependacies installed.
 
-- (React)[https://reactjs.org/docs/create-a-new-react-app.html]
-- (React-Router)[https://reacttraining.com/react-router/web/guides/quick-start]
-- (Axios)[https://github.com/axios/axios]
+- [React](https://reactjs.org/docs/create-a-new-react-app.html)
+- [React-Router](https://reacttraining.com/react-router/web/guides/quick-start)
+- [Axios](https://github.com/axios/axios)
 
 ## Available Scripts
 
