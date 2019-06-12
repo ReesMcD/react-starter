@@ -25,6 +25,9 @@ $ npm install
 $ yarn start
 ~~~ 
 
+#### Or
+Do the cool templete stuff that GitHub has added.
+
 ## Project Dependencies
 While I wanted to keep this starter fairly lightweight I did want to have some initial dependencies installed.
 
