@@ -11,15 +11,19 @@ It was covered in my tutorial of [Creating a React Project](https://medium.com/@
 - A positive attitude
 ### Lets Get To It
 1. Clone this project:
-`git clone https://github.com/ReesMcD/react-starter.git`
+~~~ 
+$ git clone https://github.com/ReesMcD/react-starter.git
+~~~ 
 
 2. Move to project and install dependencies:
 ~~~ 
-cd react-starter
-npm install
+$ cd react-starter
+$ npm install
 ~~~~
 3. Start The project:
-`yarn start`
+~~~ 
+$ yarn start
+~~~ 
 
 ## Project Dependencies
 While I wanted to keep this starter fairly lightweight I did want to have some initial dependencies installed.
