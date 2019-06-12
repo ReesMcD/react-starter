@@ -3,6 +3,8 @@ import { Switch, Route } from "react-router-dom";
 import Home from "../../pages/Home/Home";
 import UserPage from "../../pages/UserPage/UserPage";
 
+import './Main.css';
+
 function Main() {
   return (
     <main>

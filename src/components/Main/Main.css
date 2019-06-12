@@ -1,0 +1,20 @@
+li {
+  list-style-type: none;
+}
+
+.link {
+    text-decoration: none;
+    color: black;
+    cursor: auto;
+}
+
+.link:hover {
+    text-decoration: none;
+    color: #1192D3;
+    cursor: auto;
+}
+
+.link:visited {
+    text-decoration: none;
+    cursor: auto;
+}

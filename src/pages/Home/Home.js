@@ -22,7 +22,7 @@ class Home extends React.Component {
     return this.state.users.map((user, key) => {
       return (
         <li key={key}>
-          <Link to={`/user/${user.id}`}>{user.name}</Link>
+          <Link className='link' to={`/user/${user.id}`}>{user.name}</Link>
         </li>
       );
     });
@@ -31,6 +31,7 @@ class Home extends React.Component {
   render() {
     return (
       <div>
+        <h2>User List:</h2>
         <ul>{this.renderUsers()}</ul>
       </div>
     );

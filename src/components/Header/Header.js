@@ -1,10 +1,14 @@
 import React from "react";
 
+import './Header.css';
+
 function Header() {
   return (
-    <header>
-      <h1>Our React Starter</h1>
-    </header>
+    <div>
+      <header>
+        <h1>Our React Starter</h1>
+      </header>
+    </div>
   );
 }
 
